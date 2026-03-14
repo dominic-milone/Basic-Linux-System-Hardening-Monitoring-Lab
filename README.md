@@ -17,3 +17,17 @@ System log monitoring
 Real-time system monitoring with htop
 
 Cybersecurity fundamentals in system protection
+
+
+
+![Making User](https://github.com/dominic-milone/Basic-Linux-System-Hardening-Monitoring-Lab/blob/main/making%20user%2C%20locking%20user%20and%20verifying.png)
+
+![Firewall](https://github.com/dominic-milone/Basic-Linux-System-Hardening-Monitoring-Lab/blob/main/firewall%20verification.png?raw=true)
+
+
+![Viewing Logs](https://github.com/dominic-milone/Basic-Linux-System-Hardening-Monitoring-Lab/blob/main/viewing%20the%20logs.png)
+
+
+![HTOP analysis](https://github.com/dominic-milone/Basic-Linux-System-Hardening-Monitoring-Lab/blob/main/basic%20htop%20analysis.png?raw=true)
+
+![Viewing failed login attempt](https://github.com/dominic-milone/Basic-Linux-System-Hardening-Monitoring-Lab/blob/main/failing%20login,%20viewing%20it%20in%20logs.png?raw=true)
